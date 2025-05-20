@@ -259,6 +259,12 @@
     github = "genericnerdyusername";
     githubId = 111183546;
   };
+  gremory = {
+    name = "gremory";
+    email = "gremory@tutanota.com";
+    github = "Gremoria";
+    githubId = "";
+  };
   hawkw = {
     name = "Eliza Weisman";
     email = "eliza@elizas.website";

@@ -39,6 +39,7 @@ in
           global = {
             username = "Alex";
             password = "foo";
+            password_cmd = "op item get spotify --fields password";
             device_name = "nix";
           };
         }
